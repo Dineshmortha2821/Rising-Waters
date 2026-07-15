@@ -145,7 +145,7 @@ Rising-Waters/
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/KSriMounika/Rising-Waters.git
+git clone https://github.com/Dineshmortha2821/Rising-Waters.git
 ```
 
 ---
